@@ -1,0 +1,18 @@
+ .header {
+    background: #f00;
+} 
+
+
+.header__inner {
+    background: #000;
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #0ff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+}
